@@ -37,6 +37,12 @@
 ## **App Description**
 
 Pavement-Watch is a mobile application designed to improve the reporting and management of road infrastructure issues such as potholes and surface damage. It enables users to quickly submit reports with images and GPS location, while allowing municipal authorities to track, verify, and resolve issues efficiently in real time.
-
+echo "# Firebase-lead-project-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/walter-2004/Firebase-lead-project-.git
+git push -u origin main
 
 
